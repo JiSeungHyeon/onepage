@@ -21,6 +21,7 @@ body{
   font-family: 'Poppins', sans-serif;
   color:#0C0C0C;
 }
+
 /* button______________________ */
 .top a{
   position:fixed;
@@ -33,6 +34,7 @@ body{
   border-bottom: 80px solid #FF7933;
   z-index:100;
 }
+
 /* header_________________________ */
 header{
   width:100%;
@@ -91,6 +93,7 @@ header{
   transition:0.5s cubic-bezier(.67, .05, .13, .93);
 }
 .top_menu li img{filter:invert(100%);}
+
 /* main_______________________ */
 video{
   width:100%;
@@ -112,6 +115,7 @@ main:after{
   left:50%;
   transform:translate(-50%,-50%);
 }
+
 /* section_______________________ */
 /* about */
 .about{
@@ -185,6 +189,7 @@ main:after{
   margin-left:5px;
   display:block;
 }
+
 /* live */
 .live{
   width:100%;
@@ -247,6 +252,7 @@ main:after{
   top:50%;
   left:-5%;
 }
+
 /* new */
 .new{
   width:100%;
@@ -324,6 +330,7 @@ iframe{
   transform:scale(1.5);
 }
 .img_content:hover.img_content span{opacity:1;}
+
 /* newsletter */
 .newsletter{
   width:100%;
@@ -385,6 +392,7 @@ input[type=submit]:active{
   background-color:#0C0C0C;
   color:#fff;
 }
+
 /* footer_______________________ */
 footer{
   width:100%;
